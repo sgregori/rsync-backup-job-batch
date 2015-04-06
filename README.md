@@ -1,5 +1,5 @@
 # rsync-backup-job-batch
-Script for launching rsync from a text file list with exclussions
+Simple script for launching rsync from a text file with exclussions text file
 
 USAGE:
 ```bash
